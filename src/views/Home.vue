@@ -13,7 +13,7 @@
       </div>
       <div class="border-2 border-black md:w-[30rem] md:h-[3.6rem] mx-auto mt-5 bg-[#FFF6E3]">
         <h1 class="font-semibold text-xl text-center">TOFU MAULANA</h1>
-        <h3 class="text-xl text-center">Web Developer</h3>
+        <h3 class="text-xl text-center">Front End Developer</h3>
       </div>
     </div>
   </div>
