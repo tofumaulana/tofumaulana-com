@@ -6,7 +6,7 @@
     </div>
     <div class="bg-[#FFF6E3] md:h-[33rem]">
       <div class="grid grid-cols-3 gap-4 p-10">
-        <div class="w-32 md:pt-5 pt-1 md:pl-5">
+        <div class="md:w-32 md:pt-5 pt-1 md:pl-5">
           <img src="/image/img/logo-html.png" alt="" />
           <h1 class="md:font-bold font-semibold text-center md:text-xl md:pt-3">HTML</h1>
         </div>

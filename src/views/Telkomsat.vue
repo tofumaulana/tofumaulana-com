@@ -12,7 +12,7 @@
           <img src="/image/img/Screenshot_25-3-2024_192024_localhost.jpeg" alt="" />
         </div>
       </div>
-      <div class="md:w-[17rem] w-[12rem] mx-auto pt-2">
+      <div class="md:w-[17rem] w-[11rem] mx-auto pt-2">
         <img src="/image/img/Screenshot_17-3-2024_204952_localhost.jpeg" alt="" />
       </div>
     </div>

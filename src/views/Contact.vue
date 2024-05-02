@@ -1,6 +1,6 @@
 <template>
   <form class="">
-    <div class="max-w-sm mx-auto mt-16">
+    <div class="max-w-sm mx-auto mt-16 px-5">
       <div class="py-3">
         <label for="text" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Your Name</label>
         <input

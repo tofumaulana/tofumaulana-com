@@ -4,10 +4,10 @@
       <h1 class="text-center font-bold text-2xl pt-[10rem]">project</h1>
       <p class="text-center p-10">"Kemampuan manajemen proyek saya memungkinkan saya untuk mengelola berbagai tugas dengan efisien dan mencapai tujuan proyek tepat waktu."</p>
     </div>
-    <div class="bg-[#FFF6E3] h-[33rem] shadow-2xl">
+    <div class="bg-[#FFF6E3] md:h-[33rem] shadow-2xl">
       <div class="">
         <ul>
-          <li v-for="user in users" class="text-xl font-semibold p-8">
+          <li v-for="user in users" class="text-xl font-semibold md:p-8 p-3">
             <RouterLink :to="'/user/' + user.params1 + '/telkomsat'">
               <span class="text-2xl font-bold">{{ user.no1 }}</span> {{ user.name1 }} <br />
               <span class="text-center">{{ user.project }}</span>
